@@ -1,7 +1,7 @@
 # Module 8B: Iris Species Classifier (Streamlit)
 
 **Author:** Peace Bitrus Yilmwen
-**Live app:*http://localhost:8501/*
+**Live app:*https://module8b-app-peace-bitrus-7ctuwcwznyqmhg9unaieea.streamlit.app/*
 **Repo:** module8b-app-peace
 
 An interactive web app that predicts an iris flower's species (setosa, versicolor or
