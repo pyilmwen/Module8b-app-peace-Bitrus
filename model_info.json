@@ -1,0 +1,9 @@
+{
+  "model": "StandardScaler + LogisticRegression",
+  "version": "1.0",
+  "trained_at": "2026-10-21 13:11 UTC",
+  "train_accuracy": 0.9583,
+  "test_accuracy": 0.9333,
+  "n_train": 120,
+  "n_test": 30
+}
